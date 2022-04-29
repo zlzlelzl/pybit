@@ -1,0 +1,5 @@
+*.csv
+*.interactive
+__pycache__
+.vscode
+api_key.py
